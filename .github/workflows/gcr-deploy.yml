@@ -7,7 +7,7 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.GCR_PROJECT }}
-  RUN_REGION: europe-west2-a
+  RUN_REGION: europe-west2
   SERVICE_NAME: investment-advisor
 
 jobs:
