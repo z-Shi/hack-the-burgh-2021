@@ -1,4 +1,4 @@
-# Hack the Burgh 2021
+#Hack the Burgh 2021
 
 This repository will be used to store my team's submission for our chosen challenge in the Hack the Burgh Hackathon.
 
@@ -9,4 +9,8 @@ This repository will be used to store my team's submission for our chosen challe
 
 
 # Usage
+
+
+# Technology Used
+
 
